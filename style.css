@@ -1,0 +1,33 @@
+h1 {
+     margin-left: 2in;
+     margin-right: 2in;
+     font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+#Box {
+       margin-left: 2in;
+       margin-right: 2in;
+       background-color: #00ffa1;
+       padding: 25px;
+       width: 200px;
+       font-family: "Helvetica Neue", Arial, sans-serif;
+       float:left;
+}
+
+#story {
+  display:none;
+       margin-left: 6.5in;
+       margin-right: 2in;
+       background-color: #00ffa1;
+       padding: 25px;
+       width: 200px;
+       font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+html {
+  background: url(https://s-media-cache-ak0.pinimg.com/originals/22/c6/59/22c659d26e320a5efbd4295d0de48044.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
